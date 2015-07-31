@@ -5544,7 +5544,8 @@ header {
   margin-right: 0 !important; }
 
 h1.text-white {
-  font-size: 28px; }
+  font-size: 28px;
+  font-family: -webkit-body; }
 
 .content1 {
   position: relative;
