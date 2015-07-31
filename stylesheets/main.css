@@ -5565,7 +5565,8 @@ aside.imagen {
   background-size: cover; }
 
 p.historia.text-center {
-  margin-top: 35px; }
+  margin-top: 45px;
+  margin-bottom: 45px; }
 
 img.ducati {
   width: 25%; }
@@ -5573,7 +5574,7 @@ img.ducati {
 .texto1 {
   width: 100%;
   position: relative;
-  left: 50%;
+  left: 42%;
   top: 20px; }
 
 .texto2 {
@@ -5581,5 +5582,8 @@ img.ducati {
   position: relative;
   top: 20px;
   right: 38%; }
+
+.accion {
+  text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
