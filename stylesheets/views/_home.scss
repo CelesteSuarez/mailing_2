@@ -34,19 +34,20 @@ h1.text-white {
 aside.imagen {
     background-image: url(../img/banner.png);
     width: 50%;
-    height: 580px;
+    height: 690px;
     background-repeat: no-repeat;
     margin: 0 auto;
     background-size: cover;
 }
 
-p.historia.text-center {
-    margin-top: 45px;
-    margin-bottom: 45px;
-}
+
 
 img.ducati {
     width: 25%;
+}
+
+aside.historia {
+    margin-top: 40px;
 }
 
   .texto1{
@@ -61,9 +62,15 @@ img.ducati {
     width: 100%;
     position: relative;
     top: 20px;
-    right: 38%;
+    right: 48%;
 }
 
 .accion {
     text-align: center;
+}
+
+
+a{
+	color: black !important;
+	text-decoration: none;
 }
